@@ -3806,3 +3806,8 @@ input, select, textarea {
 		#list{
 			margin-left: 20px;
 		}
+
+
+		#edu h3 {
+			text-align: left;
+		}
