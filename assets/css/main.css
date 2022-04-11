@@ -3099,6 +3099,11 @@ input, select, textarea {
 			letter-spacing: -0.025em;
 		}
 
+		#header p b{
+			font-size: 2rem;
+			letter-spacing: -0.025em;
+		}
+
 		#header.alt {
 			padding: 7em 5em 4em 5em ;
 		}
